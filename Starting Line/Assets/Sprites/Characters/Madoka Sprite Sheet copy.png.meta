@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: 4e1999edc9828a24c91b3fd3ab32cc54
+timeCreated: 1501964871
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Madoka Sprite Sheet copy_0
+    21300002: Madoka Sprite Sheet copy_1
+    21300004: Madoka Sprite Sheet copy_2
+    21300006: Madoka Sprite Sheet copy_3
+    21300008: Madoka Sprite Sheet copy_4
+    21300010: Madoka Sprite Sheet copy_5
+    21300012: Madoka Sprite Sheet copy_6
+    21300014: Madoka Sprite Sheet copy_7
+    21300016: Madoka Sprite Sheet copy_8
+    21300018: Madoka Sprite Sheet copy_9
+    21300020: Madoka Sprite Sheet copy_10
+    21300022: Madoka Sprite Sheet copy_11
+    21300024: Madoka Sprite Sheet copy_12
+    21300026: Madoka Sprite Sheet copy_13
+    21300028: Madoka Sprite Sheet copy_14
+    21300030: Madoka Sprite Sheet copy_15
+    21300032: Madoka Sprite Sheet copy_16
+    21300034: Madoka Sprite Sheet copy_17
+    21300036: Madoka Sprite Sheet copy_18
+    21300038: Madoka Sprite Sheet copy_19
+    21300040: Madoka Sprite Sheet copy_20
+    21300042: Madoka Sprite Sheet copy_21
+    21300044: Madoka Sprite Sheet copy_22
+    21300046: Madoka Sprite Sheet copy_23
+    21300048: Madoka Sprite Sheet copy_24
+    21300050: Madoka Sprite Sheet copy_25
+    21300052: Madoka Sprite Sheet copy_26
+    21300054: Madoka Sprite Sheet copy_27
+    21300056: Madoka Sprite Sheet copy_28
+    21300058: Madoka Sprite Sheet copy_29
+    21300060: Madoka Sprite Sheet copy_30
+    21300062: Madoka Sprite Sheet copy_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Madoka Sprite Sheet copy_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 866
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 866
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 866
+        width: 61
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 866
+        width: 64
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 866
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 866
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 866
+        width: 65
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_7
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 866
+        width: 63
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 731
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 735
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_10
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 733
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 729
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 729
+        width: 59
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_13
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 734
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_14
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 733
+        width: 58
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 729
+        width: 58
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 584
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 584
+        width: 62
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_18
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 582
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_19
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 581
+        width: 64
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_20
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 581
+        width: 65
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_21
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 581
+        width: 81
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_22
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 448
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 448
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_24
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 449
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_25
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 315
+        width: 65
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 315
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_27
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 315
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_28
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 315
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_29
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 314
+        width: 97
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_30
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 314
+        width: 92
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Madoka Sprite Sheet copy_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 181
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
